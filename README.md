@@ -17,8 +17,8 @@ For construct in your database
 
 ---Note---
 -> Will run in your localhost
-Will run at localhost/your_file_path/api/...
-api endpoint is localhost/your_file_path/api
+-> Will run at localhost/your_file_path/api/...
+-> api endpoint is localhost/your_file_path/api
 
 noteapi.json file included in this repo.
 Please install vscode thunder client extension
