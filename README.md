@@ -1,4 +1,4 @@
-This laravel api pj for react-note-app pj.
+###This laravel api pj for react-note-app pj.
 
 Just put the pj file in your htdocs and no need to construct new file.
 
@@ -20,6 +20,16 @@ For construct in your database
 -> Will run in your localhost
 -> Will run at localhost/note-app-api/api/...
 -> api endpoint is localhost/note-app-api/api
+
+
+### `This note-app pj will run following steps.`
+You have to singup and login for authorization.You can do CRUD for label,note.You can contribute to someone and receive contribute form them in this environment app.This pj included notification for message toastify libiary, description for react-quill libiary and API for axios libiary.
+
+### For demo account
+usename-->mtk@a.com/password-->password
+
+### So Get starting for note application with ()
+This project was note application with laravel-api [hosting on Vercel](https://react-note-app-vercel.vercel.app/).
 
 --For checking api--
 noteapi.json file included in this repo.
