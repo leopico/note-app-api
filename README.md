@@ -20,6 +20,7 @@ For construct in your database
 -> Will run in your localhost
 -> Will run at localhost/note-app-api/api/...
 -> api endpoint is localhost/note-app-api/api
+-> please run your back-end local development (eg:XAMPP OR MAMPP...)
 
 
 ### `This note-app pj will run following steps.`
