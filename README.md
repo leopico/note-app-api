@@ -10,7 +10,7 @@ For running
 -> php artisan key:generate
 
 For construct in your database
--> with (course_note_api)
+-> with (note_api)
 -> php artisan migrate:fresh
 -> php artisan db:seed
 
