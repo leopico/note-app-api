@@ -1,4 +1,4 @@
-This laravel api pj for react-note-app pf.
+This laravel api pj for react-note-app pj.
 
 Just put the pj file in your htdocs and no need to construct new file.
 
