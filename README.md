@@ -16,7 +16,7 @@ For construct in your database
 
 -> php artisan passport:install
 
----Note---
+###`Note`
 -> Will run in your localhost
 -> Will run at localhost/note-app-api/api/...
 -> api endpoint is localhost/note-app-api/api
