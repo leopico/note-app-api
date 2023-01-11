@@ -1,11 +1,12 @@
 This laravel api pj for react-note-app.
 
-Just put the pj file in your htdocs
+Just put the pj file in your htdocs and no need to contruct new file.
 
 For running
 -> Clone the repo
--> change env to (.env) in your clone repo
+-> change (env) to (.env) in your clone repo
 -> composer install
+(if you don't have composer in your machine please install --> [npm i -g composer])
 -> php artisan key:generate
 
 For construct in your database
@@ -17,9 +18,10 @@ For construct in your database
 
 ---Note---
 -> Will run in your localhost
--> Will run at localhost/your_file_path/api/...
--> api endpoint is localhost/your_file_path/api
+-> Will run at localhost/note-app-api/api/...
+-> api endpoint is localhost/note-app-api/api
 
+--For checking api--
 noteapi.json file included in this repo.
 Please install vscode thunder client extension
 You can see noteapi.json file data of required of note-api
