@@ -1,20 +1,51 @@
-### `This laravel api pj for react-note-application pj.`
+# Project Title
 
-Just put the pj file in your htdocs and no need to construct new file.
+This laravel api pj for react-note-application pj
 
-For running
--> Clone the repo
--> change (env) to (.env) in your clone repo
--> composer install
-(if you don't have composer in your machine please install --> [npm i -g composer])
--> php artisan key:generate
+## Appendix
 
-For construct in your database
--> with (note_api)
--> php artisan migrate:fresh
--> php artisan db:seed
+Just put the pj file in your htdocs and no need to construct new file.This pj included notification for message toastify libiary, description for react-quill libiary and API for axios libiary.For construct in your database with (note_api).
 
--> php artisan passport:install
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** laravel for API
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  Clone the repo
+```
+```bash
+  Please change (env) to (.env) in your clone repo.
+```
+```bash
+  composer install ((if you don't have composer in your machine please install --> [npm i -g composer]))
+```
+```bash
+  php artisan key:generate
+```
+```bash
+  php artisan migrate:fresh
+```
+```bash
+  php artisan db:seed
+```
+```bash
+  php artisan passport:install
+```
 
 ### `Note`
 -> Will run in your localhost
@@ -22,11 +53,15 @@ For construct in your database
 -> api endpoint is localhost/note-app-api/api
 -> please run your back-end local development (eg:XAMPP OR MAMPP...)
 
+## Features
 
-### `features`
-You have to singup and login for authorization.You can do CRUD for label,note.You can contribute to someone and receive contribute form them in this environment app.This pj included notification for message toastify libiary, description for react-quill libiary and API for axios libiary.
+- You have to singup and login for authorization.You can do CRUD for label,note.
+- You can contribute to someone and receive contribute form them in this environment app.
+- Fullscreen mode
+- Cross platform
 
-### For demo account
+## Demo
+
 usename-->mtk@a.com/password-->password
 
 ### `So Get starting for note application.` [hosting on Vercel] (https://react-note-app-vercel.vercel.app/).
