@@ -9,7 +9,6 @@ This laravel api pj for react-note-application pj
 
 Just put the pj file in your htdocs and no need to construct new file.This pj included notification for message toastify libiary, description for react-quill libiary and API for axios libiary.For construct in your database with (note_api).
 
-
 ## Tech Stack
 
 **Client:** React
@@ -18,7 +17,7 @@ Just put the pj file in your htdocs and no need to construct new file.This pj in
 
 ## Run Locally
 
-Clone the project
+Clone the project for laravel-api
 
 ```bash
   git clone https://github.com/leopico/note-app-api.git
