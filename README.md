@@ -23,7 +23,7 @@ For construct in your database
 -> please run your back-end local development (eg:XAMPP OR MAMPP...)
 
 
-### `This note-app pj will run following steps.`
+### `features`
 You have to singup and login for authorization.You can do CRUD for label,note.You can contribute to someone and receive contribute form them in this environment app.This pj included notification for message toastify libiary, description for react-quill libiary and API for axios libiary.
 
 ### For demo account
