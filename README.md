@@ -2,6 +2,9 @@
 
 This laravel api pj for react-note-application pj
 
+### `So Get starting for note application.` 
+[hosting on Vercel](https://react-note-app-vercel.vercel.app/).
+
 ## Appendix
 
 Just put the pj file in your htdocs and no need to construct new file.This pj included notification for message toastify libiary, description for react-quill libiary and API for axios libiary.For construct in your database with (note_api).
@@ -9,7 +12,7 @@ Just put the pj file in your htdocs and no need to construct new file.This pj in
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React
 
 **Server:** laravel for API
 
@@ -18,21 +21,14 @@ Just put the pj file in your htdocs and no need to construct new file.This pj in
 Clone the project
 
 ```bash
-  git clone https://link-to-project
-```
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  Clone the repo
+  git clone https://github.com/leopico/note-app-api.git
 ```
 ```bash
   Please change (env) to (.env) in your clone repo.
 ```
+ if you don't have composer in your machine please install --> [npm i -g composer]
 ```bash
-  composer install ((if you don't have composer in your machine please install --> [npm i -g composer]))
+  composer install
 ```
 ```bash
   php artisan key:generate
@@ -64,14 +60,22 @@ To run tests, run the following command
 
 usename-->mtk@a.com/password-->password
 
-### `So Get starting for note application.` [hosting on Vercel] (https://react-note-app-vercel.vercel.app/).
 
-### `You can also check on this source code.` (https://github.com/leopico/react-note_app)
+### `You can also check on this source code for react-pj.` (https://github.com/leopico/react-note_app)
 
 
---For checking api--
+## Appendix-1
 noteapi.json file included in this repo.
 Please install vscode thunder client extension
 You can see noteapi.json file data of required of note-api
 Please import noteapi.json file in your thunder client extension at Collections
 You can see the required of api for react-note-app
+
+## Feedback
+
+If you have any feedback, please reach out to me at leopico.peceng@gmail.com.
+
+## 🚀 About Me
+I'm a full stack blockchain developer...
+
+
