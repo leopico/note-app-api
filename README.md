@@ -51,7 +51,7 @@ Clone the project for laravel-api
 ## Features
 
 - You have to singup and login for authorization.You can do CRUD for label,note.
-- You can contribute to someone and receive contribute form them in this environment app.
+- You can contribute to someone and receive contribute from them in this environment app.
 - Fullscreen mode
 - Cross platform
 
