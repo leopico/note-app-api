@@ -2,9 +2,6 @@
 
 This laravel api pj for react-note-application pj
 
-### `So Get starting for note application.` 
-[hosting on Vercel](https://react-note-app-vercel.vercel.app/).
-
 ## Appendix
 
 Just put the pj file in your htdocs and no need to construct new file.This pj included notification for message toastify libiary, description for react-quill libiary and API for axios libiary.For construct in your database with (note_api).
@@ -58,6 +55,9 @@ Clone the project for laravel-api
 ## Demo
 
 usename-->mtk@a.com/password-->password
+
+### `So Get starting for note application.` 
+[hosting on Vercel](https://react-note-app-vercel.vercel.app/).
 
 
 ### `You can also check on this source code for react-pj.` (https://github.com/leopico/react-note_app)
